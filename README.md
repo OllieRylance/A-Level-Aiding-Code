@@ -19,5 +19,17 @@ In 'encoder and decoder.py', there is the Python code for two methods of encrypt
 
 In 'gamble.py', the code repeatedly tests the win rate of the following coin toss gambling strategy:
   
-- Have a set starting bet siza (small),
+- Have a set starting bet size (small),
 - Aim to get 1.5 times your initial balance by placing the starting bet repeatedly unless the last outcome of the coin toss was a loss, in which case you bet double the last bet size in a "double or nothing" manner.
+
+## Maths - Matrix Multiplication
+
+I remember learning matrix multiplication in maths and, although not understanding why it worked, thinking it could be programmed quite easily. This thought process led me to create 'matrix.py'.
+
+In 'matrix.py', I created a function that takes a matrix and a matrix and a set of vectors. The function tests that the inputs can be multiplied before then proceeding with the multiplication.
+
+Not too complicated but the concepts of 2D arrays and matrices are now quite normal to see in my degree so creating this program when the concepts were new to me must still help me with understanding the concepts.
+
+## Sorting
+
+In 'merge sort.py', I coded the two repeating steps of splitting and merging the dataset so that the efficiency of the code follows the big O notation of O(n log n), where 'n' represents the size of the dataset. This was a good short project to cement my understanding of the merge sorting process.
