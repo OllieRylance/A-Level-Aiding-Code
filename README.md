@@ -33,3 +33,12 @@ Not too complicated but the concepts of 2D arrays and matrices are now quite nor
 ## Sorting
 
 In 'merge sort.py', I coded the two repeating steps of splitting and merging the dataset so that the efficiency of the code follows the big O notation of O(n log n), where 'n' represents the size of the dataset. This was a good short project to cement my understanding of the merge sorting process.
+
+### Challenges Faced
+
+In the programming of this code, I ran into an aspect of Python that initially stumped me as to what was going on.
+
+- When I created a second copy of the list of elements that were all split into separate lists, any edit I made to one list would happen to the other as well.
+  - Solution: After tampering with the code I realised that the issue was that the first list was not duplicated but instead both variables shared an address storing the single list,
+  - I looked up why this was happening and found out that was just how Python works and that the solution was to use a function called 'deepcopy' in a library called 'copy' built into Python. 
+
