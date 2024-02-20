@@ -4,9 +4,11 @@ While was studying my A-Levels, there were concepts to do with problem-solving a
 ## Table of Contents
 
 - [Maths - Averaging](#maths---averaging)
-- [Recent Edits](#recent-edits)
-- [Takeaway](#takeaway)
-- [Contract Information](#contact-information)
+- [Classes](#classes)
+- [Encyption](#encyption)
+- [Probability Testing](#probability-testing)
+- [Maths - Matrix Multiplication](#maths---matrix-multiplication)
+- [Sorting](#sorting)
 
 ## Maths - Averaging
 
