@@ -15,3 +15,7 @@ What I learned from playing around with classes aided my understanding of the A-
 
 In 'encoder and decoder.py', there is the Python code for two methods of encryption. The first is the ol' reliable Caesar Cypher and the second is the keyword cypher. These both tend to come up a fair amount when learning encryption and I am happy I took the time to have a look at what is required to encode and decode them using a program.
 
+## Probability Testing
+
+In 'gamble.py', the code repeatedly tests the win rate of the following coin toss gambling strategy:
+  Have a set starting bet and you aim to get 1.5 times your initial balance by placing the starting bet repeatedly unless the last outcome of the coin toss was a loss, in which case the bet size is doubled.
