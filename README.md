@@ -1,5 +1,5 @@
 # A-Level-Aiding-Code
-While I studied Computer Science A-Level, there were concepts to do with problem-solving and coding which we were taught the theory. This repository is how I tried to put some of those into programming.
+While was studying my A-Levels, there were concepts to do with problem-solving and coding which we were taught the theory of. This repository is how I tried to put some of those into practice using programming.
 
 ## Maths - Averaging
 
